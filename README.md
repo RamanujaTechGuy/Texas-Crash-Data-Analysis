@@ -68,3 +68,9 @@ The analysis is delivered as an interactive Power BI report with two pages:
 | **Ctrl + Click a bar, slice or map area** | Cross-filters every visual for rapid “slice-&-dice” exploration |
 | **Multi-select** (*Ctrl + Click multiple items*) | Build compound filters (e.g., *City = Dallas* **AND** *Hour of Day = 18:00-18:59*) |
 
+Screenshots:
+
+![Report 1](https://github.com/user-attachments/assets/a82f63d6-e99b-46ec-a8d6-cc3a1cc47e75)
+
+![Report 2](https://github.com/user-attachments/assets/fe45690d-fb10-4de9-8ddb-0c0cc9f2c090)
+
